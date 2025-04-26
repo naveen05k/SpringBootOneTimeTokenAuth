@@ -125,7 +125,6 @@ mvn spring-boot:run
 | ![dashboard screenshot](![image](https://github.com/user-attachments/assets/a8484587-95cf-4eac-b85c-5e095d563cb2)
 | ![error page](![image](https://github.com/user-attachments/assets/b5383bfd-ddf2-4e1f-8ca3-3baeb5aa35bb)
 
-_(You can capture real screenshots after building it!)_
 
 ---
 
