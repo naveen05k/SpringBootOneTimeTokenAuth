@@ -122,10 +122,8 @@ mvn spring-boot:run
 | Generate Link Email | Dashboard Page | Access Denied |
 |:--------------------:|:--------------:|:-------------:|
 | ![email screenshot](images/![image](![image](https://github.com/user-attachments/assets/2b19fd8f-ca11-49f8-9b99-c223464093d8)
-)
-.png) | ![dashboard screenshot](![image](https://github.com/user-attachments/assets/a8484587-95cf-4eac-b85c-5e095d563cb2)
- | ![error page](![image](https://github.com/user-attachments/assets/b5383bfd-ddf2-4e1f-8ca3-3baeb5aa35bb)
-) |
+| ![dashboard screenshot](![image](https://github.com/user-attachments/assets/a8484587-95cf-4eac-b85c-5e095d563cb2)
+| ![error page](![image](https://github.com/user-attachments/assets/b5383bfd-ddf2-4e1f-8ca3-3baeb5aa35bb)
 
 _(You can capture real screenshots after building it!)_
 
